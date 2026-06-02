@@ -1,0 +1,1 @@
+print("Moduł interfejsu użytkownika")
